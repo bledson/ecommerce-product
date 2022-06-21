@@ -1,4 +1,4 @@
-package br.com.bledson.ecommerce.product.application.port;
+package br.com.bledson.ecommerce.product.application.port.service;
 
 import br.com.bledson.ecommerce.product.application.port.in.CreateProductCommand;
 import br.com.bledson.ecommerce.product.application.port.in.CreateProductUseCase;
